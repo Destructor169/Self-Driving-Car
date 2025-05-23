@@ -102,22 +102,16 @@ self-driving-car/ ├── index.html # Main entry point ├── style.css # 
 ### Car and Sensor Visualization
 ![Car Sensors in Action](./ss/sensor.png)
 
-Visualization of the car's sensor system with ray casting*
+*Visualization of the car's sensor system with ray casting*
 
 ### Neural Network Display
 ![Neural Network](./ss/neural_network.png)
+
 *Real-time visualization of the neural network's decision making*
-
-### Traffic Simulation
-![Traffic Simulation](./ss/traffic.png)
-*Multiple cars navigating through traffic*
-
-### Training Progress
-![Training](./ss/training.png)
-*Neural network training progress and performance metrics*
 
 ### Full Simulation View
 ![Full Simulation](./ss/full_view.png)
+
 *Complete view of the self-driving car simulation in action*
 
 ## Performance Optimization
