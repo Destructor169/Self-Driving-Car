@@ -79,10 +79,6 @@ This simulation implements a comprehensive self-driving car system, featuring:
 2. Open `index.html` in a modern web browser
 3. Use arrow keys for manual control or enable AI mode
 
-## Project Structure
-self-driving-car/ ├── index.html # Main entry point ├── style.css # Basic styling ├── src/ │ ├── car.js # Car mechanics │ ├── road.js # Road definition │ ├── sensor.js # Sensor implementation │ ├── network.js # Neural network │ ├── traffic.js # Traffic simulation │ ├── controls.js # Input handling │ ├── utils.js # Utility functions │ └── visualizer.js # Network visualization
-
-
 ## Development Phases
 
 1. Car driving mechanics
