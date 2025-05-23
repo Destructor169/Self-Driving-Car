@@ -101,7 +101,7 @@ self-driving-car/ ├── index.html # Main entry point ├── style.css # 
 
 ### Car and Sensor Visualization
 ![Car Sensors in Action](./ss/sensor.png)
-*Visualization of the car's sensor system with ray casting*
+Visualization of the car's sensor system with ray casting*
 
 ### Neural Network Display
 ![Neural Network](./ss/neural_network.png)
