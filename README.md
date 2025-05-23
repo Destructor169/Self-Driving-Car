@@ -77,7 +77,6 @@ This simulation implements a comprehensive self-driving car system, featuring:
 
 1. Clone the repository
 2. Open `index.html` in a modern web browser
-3. Use arrow keys for manual control or enable AI mode
 
 ## Development Phases
 
